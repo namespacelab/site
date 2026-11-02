@@ -1,0 +1,39 @@
+# Namespace Lab
+
+> Namespace Lab is a software company. We build custom software, CRMs, web apps, iOS and Android apps, Salesforce solutions (admin support, Apex and LWC development, Flow automation) and AI-powered apps and automation.
+
+## Key facts
+- Process: discovery, planning, design, development in sprints, testing, deployment and support.
+- Stack: React, Next.js, Node.js/Express, Python (Django, FastAPI), PostgreSQL, MongoDB, AWS, Azure, Vercel, Docker and GitHub Actions, React Native, Flutter; AI with OpenAI, Anthropic, Google Gemini, open-source LLMs, LangChain and vector databases.
+- Salesforce scope: admin support, custom development (Apex, Lightning Web Components), workflow automation (Flow), and NPSP, Nonprofit Cloud and Education Cloud configuration. No Revenue Cloud, CPQ or RevOps.
+- Dedicated developers and team extension are available.
+- No client case studies are published yet. Lab designs are concept designs with sample data, not client work.
+
+## Pages
+- [Namespace Lab](https://namespacelab.com/): We build custom software, web and mobile apps, Salesforce and AI tools around how your team already works. Tell us what's slowing you down.
+- [About Namespace Lab: A Software Company](https://namespacelab.com/about): Namespace Lab is a software company that builds custom software, apps, Salesforce solutions and AI automation for businesses and nonprofits.
+- [Software Development Services](https://namespacelab.com/services): Custom software, web and mobile apps, CRM, Salesforce and AI automation. Start from the problem and we'll show you the build that fixes it.
+- [Custom Software Development](https://namespacelab.com/services/software-development): When off-the-shelf tools almost fit, we build the one that does. Custom software made around how your team works, step by clear step.
+- [Custom CRM Development](https://namespacelab.com/services/crm-development): A CRM shaped around your pipeline, not a template. Every lead and client in one place, set up the way you already sell.
+- [Web App Development: Portals & Dashboards](https://namespacelab.com/services/web-app-development): Customer portals, dashboards, booking systems and SaaS products that run in any browser. One link, nothing to install.
+- [iOS & Android App Development](https://namespacelab.com/services/mobile-app-development): iOS and Android apps for your field team and your customers on the move. One codebase, two stores, from first version to launch.
+- [Salesforce Consulting Services](https://namespacelab.com/services/salesforce): Admin support, custom development and Flow automation for Salesforce, tested in a sandbox first. Get more from the Salesforce you pay for.
+- [Outsourced Salesforce Admin Support](https://namespacelab.com/services/salesforce/admin-support): A Salesforce admin without the hire. Users, permissions, fields, reports and clean-up, with a monthly note of what we did.
+- [Salesforce Custom Development: Apex & LWC](https://namespacelab.com/services/salesforce/custom-development): Apex, Lightning Web Components and integrations, with test classes, deployed only after your approval. For when clicks aren't enough.
+- [Salesforce Flow Automation & Migration](https://namespacelab.com/services/salesforce/workflow-automation): Salesforce Flows that move approvals and handoffs along on their own, plus a safe move from Process Builder and Workflow Rules to Flow.
+- [AI App Development & Custom AI Assistants](https://namespacelab.com/services/ai-powered-apps): Assistants, document Q&A and smart search built on your own documents, with sources shown and your team still in charge.
+- [AI Automation Services for Business](https://namespacelab.com/services/ai-automation): Pipelines and AI steps that move data between your systems, with human review where it counts. Give your business its time back.
+- [Software for Schools & Education](https://namespacelab.com/industries/education): Software for schools and colleges: student and parent portals, admissions CRMs, LMS integrations and Salesforce Education Cloud set-up.
+- [Software & Salesforce for Nonprofits](https://namespacelab.com/industries/nonprofit): Donor and volunteer CRMs, Salesforce NPSP and Nonprofit Cloud set-up, donation forms and impact reporting for nonprofits.
+- [Software for Real Estate Teams](https://namespacelab.com/industries/real-estate): Software for real estate: lead capture and routing, agent CRMs, listing and client portals, tenant apps and AI first replies to new enquiries.
+- [Software for Hotels & Hospitality](https://namespacelab.com/industries/hospitality): Software for hospitality: booking and reservation systems, guest apps, AI guest messaging, staff scheduling and reporting.
+- [Software for Engineering Firms](https://namespacelab.com/industries/engineering-firms): Software for mechanical and civil engineering firms: project tracking, drawing approvals, estimating tools, field reporting apps and timesheets.
+- [Software for Waste & Hauling Companies](https://namespacelab.com/industries/solid-waste-management): Software for solid waste and hauling companies: online booking, dispatch dashboards, driver apps, customer portals, AI call and SMS booking and billing.
+- [Industries We Build Software For](https://namespacelab.com/industries): Software for education, nonprofits, real estate, hospitality, engineering firms and solid waste management, built on our core services.
+- [Lab Designs: Concept Projects](https://namespacelab.com/work): Concept designs we made to show how we plan software: a waste dispatch suite, an inbox-to-CRM AI agent, a Salesforce dashboard and a booking app.
+- [Waste-management suite (Concept)](https://namespacelab.com/work/waste-management-suite): A concept design for a solid waste hauler: booking website, dispatch dashboard, driver app and customer portal.
+- [Inbox-to-CRM AI agent (Concept)](https://namespacelab.com/work/inbox-to-crm-agent): A concept design for an AI helper that sorts incoming email, drafts replies for a person to approve, and logs leads in a CRM.
+- [Salesforce Lightning dashboard (Concept)](https://namespacelab.com/work/salesforce-dashboard): A concept design for a Lightning Web Components dashboard with Flows for case assignment, renewal reminders and duplicate checks.
+- [MVP booking app (Concept)](https://namespacelab.com/work/mvp-booking-app): A concept design for a first-version booking app: sign-up, time-slot booking, calendar sync and checkout on iOS, Android and web.
+- [Contact Namespace Lab: Book a 30-Minute Call](https://namespacelab.com/contact): Book a 30-minute call about software, apps, Salesforce or AI. Sales: hello@namespacelab.com. Proposals and contracts: business@namespacelab.com.
+- [FAQ: Process, Pricing & Stack](https://namespacelab.com/faq): Straight answers about Namespace Lab: what we build, how projects start and are priced, our process and stack, Salesforce scope and code ownership.

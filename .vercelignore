@@ -1,0 +1,16 @@
+*.py
+*.md
+*.map
+*.sh
+screenshots/
+placeholders.json
+__pycache__/
+node_modules/
+.env*
+.git
+.git/
+*.tgz
+*.zip
+*.bak
+*.pem
+*.key
