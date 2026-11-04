@@ -1,0 +1,1 @@
+(()=>{const t=document.currentScript,c=t&&t.dataset.src;if(!c||!document.querySelector(".pf"))return;const o=()=>{const e=document.createElement("script");e.src=c,e.async=!0,document.head.appendChild(e)},n=()=>(window.requestIdleCallback||setTimeout)(o,{timeout:2e3});document.readyState==="complete"?n():addEventListener("load",n,{once:!0})})();

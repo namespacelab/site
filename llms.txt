@@ -37,3 +37,7 @@
 - [MVP Booking App Concept](https://namespacelab.com/work/mvp-booking-app/): A concept first-version booking app: sign-up, time slots, calendar sync and checkout on iOS, Android and web, and what we'd leave out. Lab design.
 - [Contact Namespace Lab](https://namespacelab.com/contact/): Tell us what's slowing your team down. A person reads every message and replies with clear next steps for your software, app or AI project.
 - [FAQ: Projects, Pricing & Process](https://namespacelab.com/faq/): Straight answers about what we build, how projects start, how pricing works, who owns the code and what we don't do. Including the no's.
+- [AIOps](https://namespacelab.com/services/aiops/): AI that monitors systems, reduces alert noise, spots problems early and runs approved fixes, with people in charge.
+- [GaaS](https://namespacelab.com/services/gaas/): Generative and Agentic AI as a Service. AI that drafts, answers and completes tasks inside your tools, built and run for you, with people approving results.
+- [Why your business should move from SaaS to GaaS](https://namespacelab.com/blog/saas-to-gaas): What GaaS means, how it differs from SaaS, what work suits it, the risks, and a step-by-step way to start.
+- [Blog](https://namespacelab.com/blog/): Plain-word guides on custom software, CRM, Salesforce, AI automation, AIOps and GaaS for teams deciding what to build next.

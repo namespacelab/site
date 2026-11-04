@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" width="240" height="320"><defs>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#DCE2EA"/><stop offset="1" stop-color="#9AA5B4"/></linearGradient>
+<linearGradient id="b" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4F6F9"/><stop offset=".6" stop-color="#B9C2CE"/><stop offset="1" stop-color="#7E8898"/></linearGradient>
+<linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E6F7F5"/><stop offset="1" stop-color="#AEB8C6"/></linearGradient>
+<linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#14B8A6" stop-opacity=".0"/><stop offset=".5" stop-color="#14B8A6" stop-opacity=".35"/><stop offset="1" stop-color="#7C6CF2" stop-opacity=".0"/></linearGradient>
+<linearGradient id="h" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<polygon points="120,8 200,92 120,312" fill="url(#b)"/><polygon points="120,8 40,92 120,312" fill="url(#a)"/>
+<polygon points="40,92 120,128 120,312" fill="url(#c)" opacity=".85"/><polygon points="200,92 120,128 120,312" fill="#8C97A8" opacity=".55"/>
+<polygon points="120,8 40,92 120,128 200,92" fill="url(#h)" opacity=".7"/>
+<polygon points="40,92 120,128 200,92 120,150" fill="url(#r)"/>
+<path d="M120 8 40 92 120 312 200 92Z M40 92 120 128 200 92 M120 128V312" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.2"/></svg>
