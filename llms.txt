@@ -11,7 +11,7 @@
 
 ## Pages
 - [Namespace Lab](https://namespacelab.com/): Namespace Lab is a software development company. We build custom software, web and mobile apps, Salesforce solutions and AI automation.
-- [About Us](https://namespacelab.com/about/): Why we're called Namespace, what we believe and what we won't do. A software company that builds apps, Salesforce and AI tools around your work.
+- [About](https://namespacelab.com/about/): Who Namespace Lab is: a software development company building custom software, apps, Salesforce solutions and AI automation — and what we will not do.
 - [Services](https://namespacelab.com/services/): Custom software, web and mobile apps, CRM, Salesforce, AI automation, AIOps and GaaS. Start from the problem and we'll show you the build that fixes it.
 - [Custom Software Development](https://namespacelab.com/services/software-development/): When off-the-shelf tools almost fit, we build the one that does. Custom software shaped around how your team works, one clear step at a time.
 - [Custom CRM Development](https://namespacelab.com/services/crm-development/): A CRM built around how you actually sell and serve. Every lead, client and follow-up in one place, so nothing slips between inboxes again.
