@@ -10,14 +10,14 @@
 - No client case studies are published yet. Lab designs are concept designs with sample data, not client work.
 
 ## Pages
-- [Namespace Lab](https://namespacelab.com/): Custom software, CRM, web and mobile apps, Salesforce admin and LWC development, and AI-powered apps and automation, built around how your team already works.
-- [About Namespace Lab](https://namespacelab.com/about/): Why we're called Namespace, what we believe and what we won't do. A software company that builds apps, Salesforce and AI tools around your work.
-- [Software, Salesforce & AI Services](https://namespacelab.com/services/): Custom software, web and mobile apps, CRM, Salesforce, AI automation, AIOps and GaaS. Start from the problem and we'll show you the build that fixes it.
-- [Custom Software Development Services](https://namespacelab.com/services/software-development/): When off-the-shelf tools almost fit, we build the one that does. Custom software shaped around how your team works, one clear step at a time.
+- [Namespace Lab](https://namespacelab.com/): Namespace Lab is a software development company. We build custom software, web and mobile apps, Salesforce solutions and AI automation.
+- [About Us](https://namespacelab.com/about/): Why we're called Namespace, what we believe and what we won't do. A software company that builds apps, Salesforce and AI tools around your work.
+- [Services](https://namespacelab.com/services/): Custom software, web and mobile apps, CRM, Salesforce, AI automation, AIOps and GaaS. Start from the problem and we'll show you the build that fixes it.
+- [Custom Software Development](https://namespacelab.com/services/software-development/): When off-the-shelf tools almost fit, we build the one that does. Custom software shaped around how your team works, one clear step at a time.
 - [Custom CRM Development](https://namespacelab.com/services/crm-development/): A CRM built around how you actually sell and serve. Every lead, client and follow-up in one place, so nothing slips between inboxes again.
 - [Web App Development: Portals & Dashboards](https://namespacelab.com/services/web-app-development/): Customer portals, dashboards, booking systems and internal tools that run in any browser. One link, nothing to install, everything in one place.
 - [iOS & Android App Development](https://namespacelab.com/services/mobile-app-development/): iOS and Android apps for teams on the move. Log jobs, take photos, capture signatures and work offline, with everything reaching the office straight away.
-- [Salesforce Consulting: Admin, LWC & Flow](https://namespacelab.com/services/salesforce/): Salesforce admin support, custom LWC development and Flow automation, tested in a sandbox first. Get more from the Salesforce you already pay for.
+- [Salesforce Admin and Custom LWC](https://namespacelab.com/services/salesforce/): Salesforce admin support, custom LWC development and Flow automation, tested in a sandbox first. Get more from the Salesforce you already pay for.
 - [Salesforce Admin Support Services](https://namespacelab.com/services/salesforce/admin-support/): Ongoing Salesforce admin support: users, permissions, reports, data cleanup and small changes, handled every month so your org stays clean and trusted.
 - [Salesforce LWC & Apex Development](https://namespacelab.com/services/salesforce/custom-development/): Custom Lightning Web Components, Apex and integrations for when clicks aren't enough. Built in a sandbox, tested, and approved by you before it goes live.
 - [Salesforce Flow Automation Services](https://namespacelab.com/services/salesforce/workflow-automation/): Salesforce Flow automation for approvals, handoffs, reminders and updates, so the next step happens on its own and nobody has to chase it.
@@ -30,12 +30,12 @@
 - [Software for Engineering Firms](https://namespacelab.com/industries/engineering-firms/): Project tracking, drawing approvals, field reports and timesheets for engineering firms, so every revision and hour is tracked without email chains.
 - [Waste Management Software & Dispatch Apps](https://namespacelab.com/industries/solid-waste-management/): Online booking, dispatch, driver apps, customer portals and AI call booking for waste haulers, from the first call to the emptied bin.
 - [Software for Education, Nonprofits & More](https://namespacelab.com/industries/): Custom software, CRM, Salesforce and AI for schools, nonprofits, real estate, hospitality, engineering firms and waste haulers, shaped to each sector.
-- [The Lab: Software Concepts by Namespace Lab](https://namespacelab.com/work/): Concept designs that show how we plan software, CRM, Salesforce and AI builds. Each one is clearly marked: Lab design. Not client work.
+- [The Lab: Software Concepts](https://namespacelab.com/work/): Concept designs that show how we plan software, CRM, Salesforce and AI builds. Each one is clearly marked: Lab design. Not client work.
 - [Waste Hauler Dispatch Suite Concept](https://namespacelab.com/work/waste-management-suite/): A concept design for a waste hauler: booking site, dispatch dashboard, driver app and customer portal working as one. Lab design, not client work.
 - [AI Email-to-CRM Agent Concept](https://namespacelab.com/work/inbox-to-crm-agent/): A concept AI helper that sorts incoming email, drafts replies for approval and logs leads in your CRM, with a person still clicking send. Lab design.
 - [Salesforce Lightning Dashboard Concept](https://namespacelab.com/work/salesforce-dashboard/): A concept LWC dashboard with Flows for case assignment, renewal reminders and duplicate checks, all on one Salesforce screen. Lab design.
 - [MVP Booking App Concept](https://namespacelab.com/work/mvp-booking-app/): A concept first-version booking app: sign-up, time slots, calendar sync and checkout on iOS, Android and web, and what we'd leave out. Lab design.
-- [Contact Namespace Lab](https://namespacelab.com/contact/): Tell us what's slowing your team down. A person reads every message and replies with clear next steps for your software, app or AI project.
+- [Contact Us](https://namespacelab.com/contact/): Tell us what's slowing your team down. A person reads every message and replies with clear next steps for your software, app or AI project.
 - [FAQ: Projects, Pricing & Process](https://namespacelab.com/faq/): Straight answers about what we build, how projects start, how pricing works, who owns the code and what we don't do. Including the no's.
 - [AIOps](https://namespacelab.com/services/aiops/): AI that monitors systems, reduces alert noise, spots problems early and runs approved fixes, with people in charge.
 - [GaaS](https://namespacelab.com/services/gaas/): Generative and Agentic AI as a Service. AI that drafts, answers and completes tasks inside your tools, built and run for you, with people approving results.
