@@ -40,4 +40,5 @@
 - [AIOps](https://namespacelab.com/services/aiops/): AI that monitors systems, reduces alert noise, spots problems early and runs approved fixes, with people in charge.
 - [GaaS](https://namespacelab.com/services/gaas/): Generative and Agentic AI as a Service. AI that drafts, answers and completes tasks inside your tools, built and run for you, with people approving results.
 - [Why your business should move from SaaS to GaaS](https://namespacelab.com/blog/saas-to-gaas): What GaaS means, how it differs from SaaS, what work suits it, the risks, and a step-by-step way to start.
+- [What is GaaS?](https://namespacelab.com/blog/what-is-gaas/): In this guide, GaaS means Generative and Agentic AI as a Service — drafts, answers and agreed actions with human approval.
 - [Blog](https://namespacelab.com/blog/): Plain-word guides on custom software, CRM, Salesforce, AI automation, AIOps and GaaS for teams deciding what to build next.

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 980" role="img" aria-labelledby="dm-title dm-desc">
+  <title id="dm-title">Draft vs act, with a human gate (stacked)</title>
+  <desc id="dm-desc">Stacked diagram. Shared input, then generative lane (draft or answer only, human review, message ready), then agentic lane (read, plan, propose, human approval gate before any write update or send, then permitted change). Both can live inside SaaS; not a replacement for it.</desc>
+  <rect width="390" height="980" fill="#FAFAF7"/>
+
+  <rect x="16" y="12" width="358" height="56" rx="14" fill="#FFFFFF" stroke="#0B122014"/>
+  <text x="195" y="34" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" font-weight="500" letter-spacing="1.2" fill="#5B6474">SHARED INPUT</text>
+  <text x="195" y="52" text-anchor="middle" font-family="Space Grotesk, system-ui, sans-serif" font-size="15" font-weight="500" fill="#0B1220">“Where is my order?”</text>
+
+  <!-- Generative -->
+  <rect x="16" y="80" width="358" height="360" rx="20" fill="#FFFFFF" stroke="#0B122014"/>
+  <text x="36" y="108" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" font-weight="500" letter-spacing="1.2" fill="#0F766E">GENERATIVE · CREATE</text>
+  <text x="36" y="132" font-family="Space Grotesk, system-ui, sans-serif" font-size="18" font-weight="500" fill="#0B1220">Draft or answer only</text>
+  <text x="36" y="152" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#5B6474">No write, update, or send to a ticket.</text>
+
+  <rect x="36" y="168" width="318" height="44" rx="11" fill="#E9F8F5"/>
+  <circle cx="58" cy="190" r="11" fill="#0F766E"/>
+  <text x="58" y="194" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" fill="#FFFFFF">1</text>
+  <text x="80" y="186" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Allowed facts</text>
+  <text x="80" y="202" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Order status the person may see</text>
+
+  <rect x="36" y="222" width="318" height="44" rx="11" fill="#E9F8F5"/>
+  <circle cx="58" cy="244" r="11" fill="#0F766E"/>
+  <text x="58" y="248" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" fill="#FFFFFF">2</text>
+  <text x="80" y="240" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Model drafts a reply</text>
+  <text x="80" y="256" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Creates language only</text>
+
+  <rect x="36" y="276" width="318" height="56" rx="11" fill="#FFFFFF" stroke="#0B1220" stroke-width="2" stroke-dasharray="6 4"/>
+  <rect x="48" y="288" width="28" height="28" rx="7" fill="#0B1220"/>
+  <circle cx="62" cy="298" r="4.5" fill="#FAFAF7"/>
+  <path d="M54 309 c3-5 13-5 16 0" fill="none" stroke="#FAFAF7" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="88" y="300" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Human review</text>
+  <text x="88" y="316" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Before anything is sent</text>
+
+  <rect x="36" y="344" width="318" height="72" rx="11" fill="#E9F8F5"/>
+  <circle cx="58" cy="368" r="11" fill="#0F766E"/>
+  <text x="58" y="372" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" fill="#FFFFFF">4</text>
+  <text x="80" y="364" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Message ready</text>
+  <text x="80" y="380" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Still text — no ticket change</text>
+  <text x="80" y="396" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Can live inside SaaS</text>
+
+  <!-- Agentic -->
+  <rect x="16" y="456" width="358" height="420" rx="20" fill="#FFFFFF" stroke="#0B122014"/>
+  <text x="36" y="484" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" font-weight="500" letter-spacing="1.2" fill="#7C6CF2">AGENTIC · ACT</text>
+  <text x="36" y="508" font-family="Space Grotesk, system-ui, sans-serif" font-size="18" font-weight="500" fill="#0B1220">Read, plan, propose — then act</text>
+  <text x="36" y="528" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#5B6474">Gate before any write, update, or send.</text>
+
+  <rect x="36" y="544" width="318" height="44" rx="11" fill="#EFEDFD"/>
+  <circle cx="58" cy="566" r="11" fill="#7C6CF2"/>
+  <text x="58" y="570" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" fill="#FFFFFF">1</text>
+  <text x="80" y="562" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Read allowed tools &amp; facts</text>
+  <text x="80" y="578" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Look up order status</text>
+
+  <rect x="36" y="598" width="318" height="44" rx="11" fill="#EFEDFD"/>
+  <circle cx="58" cy="620" r="11" fill="#7C6CF2"/>
+  <text x="58" y="624" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" fill="#FFFFFF">2</text>
+  <text x="80" y="616" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Plan &amp; propose an action</text>
+  <text x="80" y="632" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Draft reply + optional ticket update</text>
+
+  <rect x="36" y="652" width="318" height="72" rx="11" fill="#FAFAF7" stroke="#0B1220" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <path d="M58 670 l11-4 11 4 v10 c0 7-5 12-11 15 -6-3-11-8-11-15 z" fill="#0B1220"/>
+  <path d="M64 683 l4 4 7-7" fill="none" stroke="#FAFAF7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="90" y="684" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Human approval gate</text>
+  <text x="90" y="702" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Before any write, update, or send</text>
+
+  <rect x="36" y="736" width="318" height="112" rx="11" fill="#EFEDFD"/>
+  <circle cx="58" cy="760" r="11" fill="#7C6CF2"/>
+  <text x="58" y="764" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="10" fill="#FFFFFF">4</text>
+  <text x="80" y="756" font-family="Space Grotesk, system-ui, sans-serif" font-size="14" font-weight="500" fill="#0B1220">Only the permitted change</text>
+  <text x="80" y="774" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Send or ticket update after yes</text>
+  <text x="80" y="792" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Inside limits you set</text>
+  <text x="80" y="810" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Can live inside SaaS — not a replacement</text>
+  <text x="80" y="828" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">for it</text>
+
+  <rect x="16" y="892" width="358" height="72" rx="14" fill="#FFFFFF" stroke="#0B122014"/>
+  <text x="195" y="920" text-anchor="middle" font-family="Space Grotesk, system-ui, sans-serif" font-size="13" font-weight="500" fill="#0B1220">AI proposes. People approve</text>
+  <text x="195" y="938" text-anchor="middle" font-family="Space Grotesk, system-ui, sans-serif" font-size="13" font-weight="500" fill="#0B1220">what leaves or changes.</text>
+  <text x="195" y="956" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5B6474">Complements SaaS; does not replace it.</text>
+</svg>
