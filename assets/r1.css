@@ -117,7 +117,7 @@
 .nx-longread p,.nx-longread li{font-size:18px;line-height:1.75}
 .nx-longread ul,.nx-longread ol{padding-left:22px}.nx-longread li{margin-bottom:8px}
 .nx-longread li::marker{color:var(--teal-d)}
-@media(max-width:1000px){.nx-post{grid-template-columns:1fr;gap:24px}.nx-toc{position:static}.nx-toc details{border:1px solid var(--line2);border-radius:20px;padding:14px 18px}}
+@media(max-width:1000px){.nx-post{grid-template-columns:1fr;gap:24px}.nx-toc{position:static}.nx-toc details{border:1px solid var(--line2);border-radius:20px;padding:14px 18px}.nx-toc summary{display:flex;align-items:center;box-sizing:border-box;min-height:44px;width:100%}}
 @media(min-width:1001px){.nx-toc summary{display:none}.nx-toc details>ol{display:block}}
 .nx-toc summary{cursor:pointer;font-weight:500}
 .nx-vs{width:100%;border-collapse:separate;border-spacing:0;margin:32px 0;font-size:16px}
