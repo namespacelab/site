@@ -35,7 +35,7 @@
 - [AI Email-to-CRM Agent Concept](https://namespacelab.com/work/inbox-to-crm-agent/): A concept AI helper that sorts incoming email, drafts replies for approval and logs leads in your CRM, with a person still clicking send. Lab design.
 - [Salesforce Lightning Dashboard Concept](https://namespacelab.com/work/salesforce-dashboard/): A concept LWC dashboard with Flows for case assignment, renewal reminders and duplicate checks, all on one Salesforce screen. Lab design.
 - [MVP Booking App Concept](https://namespacelab.com/work/mvp-booking-app/): A concept first-version booking app: sign-up, time slots, calendar sync and checkout on iOS, Android and web, and what we'd leave out. Lab design.
-- [Contact Us](https://namespacelab.com/contact/): Tell us what's slowing your team down. A person reads every message and replies with clear next steps for your software, app or AI project.
+- [Contact Namespace Lab](https://namespacelab.com/contact/): Tell us what's slowing your team down. A person reads every message and replies with clear next steps for your software, app or AI project.
 - [FAQ: Projects, Pricing & Process](https://namespacelab.com/faq/): Straight answers about what we build, how projects start, how pricing works, who owns the code and what we don't do. Including the no's.
 - [AIOps](https://namespacelab.com/services/aiops/): AI that monitors systems, reduces alert noise, spots problems early and runs approved fixes, with people in charge.
 - [GaaS](https://namespacelab.com/services/gaas/): Generative and Agentic AI as a Service. AI that drafts, answers and completes tasks inside your tools, built and run for you, with people approving results.
